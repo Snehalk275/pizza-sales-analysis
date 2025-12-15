@@ -1,38 +1,22 @@
 🍕 Pizza Sales Data Analysis Project (SQL + Power BI)
 📌 Project Overview
-
 This project analyzes pizza sales data to understand business performance, customer demand, revenue trends, and product insights using SQL and Power BI.
-
 The goal of this project is to simulate real-world data analyst work:
-
 Writing SQL queries to answer business questions
-
-Calculating key metrics like revenue, orders, and sales distribution
-
+calculating key metrics like revenue, orders, and sales distribution
 Visualizing insights using Power BI dashboards
 
 🧰 Tools Used
-
 MySQL – Data analysis using SQL queries
-
 Power BI – Interactive dashboard & visualization
-
 Excel (CSV files) – Raw dataset
-
 GitHub – Project documentation & version control
 
 📂 Dataset Description
-
-Dataset used: Maven Pizza Challenge Dataset
-
-Tables Used:
-
+Dataset used: Maven Pizza Challenge DatasetTables Used:
 orders – Order ID and order date
-
 order_details – Order ID, pizza ID, quantity
-
 pizzas – Pizza ID, size, price
-
 pizza_types – Pizza name and category
 
 🧠 Business Questions Answered
@@ -209,21 +193,10 @@ Sales by Size
 
 Top Selling Pizzas
 
-📈 This dashboard allows interactive analysis using filters and visuals.
 
-🎯 Key Learnings
-
-Writing SQL queries using JOIN, GROUP BY, ORDER BY, AGGREGATE functions
-
-Understanding how raw data converts into business insights
-
-Building beginner-friendly Power BI dashboards
-
-End-to-end data analyst workflow
 
 🚀 Conclusion
 
 This project demonstrates practical data analyst skills using SQL and Power BI.
 It reflects how businesses analyze sales data to improve decision-making and performance.
 
-🔗 How to Upload on GitHub (Quick)
